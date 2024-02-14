@@ -1,5 +1,7 @@
 # CreditCard-Fraud-Detection
 
+* *Disclaimer *----Since the dataset(CSV file) is more than 100MB, I am unable to load it separately here. You can view and download it from Google Colab
+
   * In this project I have analyzed how many have **genuine transactions** and how many have **fraud transactions**.
 
   * This dataset contains **284807 rows × 31 columns**.
@@ -17,4 +19,6 @@
 
   * **Decision Tree Accuracy : 0.9987905664180609**
   * **Random Forest Accuracy : 0.999596855472687**
+
+
 
